@@ -1,5 +1,11 @@
 ## Django Rest API To Connect With Zatca API
-This is django Rest API app to connect with zatca API
+This is django Rest API app to connect with **ZATCA API** for all **ZATCA API** phases:
+    - 1- Reporting API  Phase
+    - 2- Clearance API  Phase
+    - 3- Compliance CSID API  Phase
+    - 4- Compliance Invoice API  Phase
+    - 5- Production CSID (Onboarding) API Phase
+    - 6- Production CSID (Renewal) API Phase
 
 ## Project
 Django rest API first learning app and connection with **ZATCA API** online
