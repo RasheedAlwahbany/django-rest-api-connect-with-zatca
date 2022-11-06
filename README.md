@@ -26,15 +26,18 @@ Navigate to an empty folder in your terminal and install Django and Django REST 
 
 `pip install django`
 
+Create a Django project called todo with the following command:
+
+`django-admin startproject todo`
+
+
 `pip install django_rest_framework`
 
 For get json data from outside API:
 
 `pip install requests`
 
-Create a Django project called todo with the following command:
 
-`django-admin startproject todo`
 
 Run your initial migrations of the built-in user model:
 
